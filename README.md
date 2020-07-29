@@ -9,6 +9,7 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
  - HTML
  - React
  - React Native
+ - REST
  - Styled Components
  - C#
  - SQL
@@ -20,5 +21,6 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
  - Docker
  - Firebase
  - Gatsby
+ - GraphQL
 
 ### In this github, you will find many of my study projects, feel free to ask or suggest anything! 😄 💬
