@@ -27,5 +27,5 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
 
 <br />
 <p align="center">
- <image src="kuni-octocat.png" width="50%" />
+ <image src="/kuni-octocat.png" width="50%" />
 </p>
