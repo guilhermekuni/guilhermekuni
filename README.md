@@ -23,7 +23,7 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
  - Gatsby
  - GraphQL
 
-### In this github, you will find many of my study projects, feel free to ask or suggest anything! 😄 💬
+### In this profile, you will find many of my study projects, feel free to ask or suggest anything! 😄 💬
 
 <br />
 <p align="center">
