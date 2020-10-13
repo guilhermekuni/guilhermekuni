@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekuni&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=guilhermekuni&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+    />
+  </a>
+</p>
+
 # Hello world 👋
 
 My name is Guilherme, and I am a Full Stack Software Engineer, focused on Front-end development. <br />
@@ -27,5 +43,5 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
 
 <br />
 <p align="center">
- <image src="https://github.com/guilhermekuni/guilhermekuni/blob/master/images/kuni-octocat.png" width="50%" />
+  <img src="https://github.com/guilhermekuni/guilhermekuni/blob/master/images/kuni-octocat.png" height="150px" />
 </p>
