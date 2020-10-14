@@ -16,7 +16,7 @@
 
 # Hello world 👋
 
-My name is Guilherme, and I am a Full Stack Software Engineer, focused on Front-end development. <br />
+My name is Guilherme, I am a Full Stack Software Engineer, focused on Front-end development. <br />
 Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
 
  ## :rocket: &nbsp; My stronger skills are: 
