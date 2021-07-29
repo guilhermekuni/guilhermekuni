@@ -1,3 +1,5 @@
+
+# hey there 👋
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -15,10 +17,10 @@
   </a>
 </p>
 
-# Hello world 👋
-
-My name is Guilherme, I am a Full Stack Software Engineer, focused on Front-end development. <br />
+I'm a Full Stack Software Engineer, focused on Front-end development. <br />
 Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
+
+##
 
 ![Snake animation](https://github.com/guilhermekuni/guilhermekuni/blob/output/github-contribution-grid-snake.svg)
 
@@ -34,7 +36,7 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
  - C#
  - SQL
  
- ## :computer: &nbsp; But I also have experience with:
+ ## :computer: &nbsp; I also have experience with:
  - Next.js
  - Gatsby.js
  - GraphQL
