@@ -4,14 +4,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="190em"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekuni&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="190em"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api?username=guilhermekuni&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
