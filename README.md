@@ -1,11 +1,8 @@
 
 # hey there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekuni&layout=compact&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermekuni&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermekuni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekuni&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 I'm a Full Stack Software Engineer, focused on Front-end development. <br />
