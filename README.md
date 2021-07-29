@@ -21,6 +21,7 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
 
  ## :rocket: &nbsp; My stronger skills are: 
  - JavaScript
+ - TypeScript
  - CSS
  - HTML
  - React
@@ -31,17 +32,9 @@ Currently, I'm working as a Front-end Engineer, developing Websites and Apps usi
  - SQL
  
  ## :computer: &nbsp; But I also have experience with:
- - TypeScript
  - Angular
  - Node.js
  - Docker
  - Firebase
  - Gatsby
  - GraphQL
-
-### In this profile, you will find many of my study projects, feel free to ask or suggest anything! 😄 💬
-
-<br />
-<p align="center">
-  <img src="https://github.com/guilhermekuni/guilhermekuni/blob/master/images/kuni-octocat.png" height="150px" />
-</p>
