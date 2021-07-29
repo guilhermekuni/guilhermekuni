@@ -5,8 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekuni&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-I'm a Full Stack Software Engineer, focused on Front-end development. <br />
-Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
+#### I'm a Full Stack Software Engineer, focused on Front-end development. Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
 
 ##
 
