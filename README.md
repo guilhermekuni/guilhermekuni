@@ -1,4 +1,4 @@
-## hey there 👋
+## Hey there 👋
 I'm a Frontend Engineer, with Full Stack experience. Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
 
  ## :rocket: &nbsp; My stronger skills are: 
