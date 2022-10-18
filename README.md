@@ -1,7 +1,7 @@
-## Hey there 👋
+### Hey there 👋
 I'm a Frontend Engineer, with Full Stack experience. Currently, I'm working as a Front-end Engineer, developing Websites and Apps using React and React Native.
 
- ## :rocket: &nbsp; My stronger skills are: 
+ ### :rocket: &nbsp; My strongest skills are: 
  - JavaScript
  - TypeScript
  - CSS
@@ -13,7 +13,7 @@ I'm a Frontend Engineer, with Full Stack experience. Currently, I'm working as a
  - C#
  - SQL
  
- ## :computer: &nbsp; I also have experience with:
+ ### :computer: &nbsp; I also have experience with:
  - Next.js
  - Gatsby.js
  - GraphQL
