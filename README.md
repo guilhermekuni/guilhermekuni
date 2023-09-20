@@ -8,10 +8,7 @@ I'm a Frontend Engineer, with Full Stack experience. Currently, I'm working as a
  - HTML
  - React
  - React Native
- - REST
- - Styled Components
- - C#
- - SQL
+ - Astro.js
  
  ### :computer: &nbsp; I also have experience with:
  - Next.js
@@ -21,5 +18,10 @@ I'm a Frontend Engineer, with Full Stack experience. Currently, I'm working as a
  - Node.js
  - Docker
  - Firebase
+ - C#
+ - SQL
 
- 
+### 🤓 &nbsp; Currently studying:
+- Expo Router
+- Astro.js
+- Server Components
