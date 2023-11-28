@@ -10,10 +10,10 @@ Currently, I'm working remotely at [Ambush](https://www.getambush.com/), which i
  - HTML
  - React
  - React Native
+ - Next.js
  - Astro.js
  
  ### :computer: &nbsp; I also have experience with:
- - Next.js
  - Gatsby.js
  - GraphQL
  - Angular
